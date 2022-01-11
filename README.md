@@ -1,5 +1,8 @@
 # ckb-next: RGB Driver for Linux
 
+### TFKS
+Corsair M55 not in working condition yet. Only added the entry and the illustration.
+
 <a target="_blank" href="https://web.libera.chat/?channels=#ckb-next"><img src="https://img.shields.io/badge/%23irc-libera.chat-blue.svg" height="20" alt="irc.libera.chat #ckb-next" /></a>
 
 **ckb-next** is an open-source driver for Corsair keyboards and mice. It aims to bring the features of Corsair's proprietary CUE software to Linux operating systems. This project is currently a work in progress, but it already supports much of the same functionality, including full RGB animations. More features are coming soon. Testing and bug reports are appreciated!
